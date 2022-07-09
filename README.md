@@ -252,7 +252,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 - Ajala, Marvellous - [@madeofajala](https://twitter.com/madeofajala) - ajalaoluwamayowa00@gmail.com
-- Alokam, Augusta - [@only_nenye](https://twitter.com/only_nenye) - user@email_client.com
+- Alokam, Augusta - [@only_nenye](https://twitter.com/only_nenye) - alokamchinenye02@gmail.com
 
 Project Link: [https://github.com/ajalamarvellous/monkey-pox-project](https://github.com/ajalamarvellous/monkey-pox-project)
 
